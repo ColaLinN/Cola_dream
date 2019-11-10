@@ -5,7 +5,8 @@
 
 
 
-[EasyX是针对 C++ 的图形库]（https://easyx.cn/）
+[EasyX是针对 C++ 的图形库](https://easyx.cn/)
+
 [b站演示视频](https://www.bilibili.com/video/av25043844)
 
 
