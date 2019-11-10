@@ -1,7 +1,9 @@
 # Cola_dream
 ### 1.程设大作业，使用C语言库easyX做的小游戏
 
-![1573365920819](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\1573365920819.png)
+![1](README_img/1.png)
+
+
 
 [EasyX是针对 C++ 的图形库]: https://easyx.cn/
 [b站演示视频]: https://www.bilibili.com/video/av25043844
@@ -18,9 +20,9 @@
 
 ### 程序主界面如下
 
-![1573365807656](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\1573365807656.png)
+![2](README_img/2.png)
 
-![1573365900916](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\1573365900916.png)
+![3](README_img/3.png)
 
 
 
