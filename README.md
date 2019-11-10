@@ -1,5 +1,5 @@
 # Cola_dream
-### 1.程设大作业，使用C语言库easyX做的小游戏
+### 大一程设大作业，使用C语言库easyX做的小游戏
 
 ![1](README_img/1.png)
 
